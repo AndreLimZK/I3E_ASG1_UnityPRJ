@@ -1,8 +1,11 @@
 fileFormatVersion: 2
-guid: ea00d09ed05d3f443b3320fa54ec4b74
-NativeFormatImporter:
+guid: ed06e3b6fec5ecc4696004cedc31f0ac
+MonoImporter:
   externalObjects: {}
-  mainObjectFileID: 11400000
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
   userData: 
   assetBundleName: 
   assetBundleVariant: 
@@ -11,5 +14,5 @@ AssetOrigin:
   productId: 267961
   packageName: 'Starter Assets: Character Controllers | URP'
   packageVersion: 2.0.2
-  assetPath: Assets/Starter Assets/Runtime/Settings/DefaultVolumeProfile.asset
+  assetPath: Assets/Starter Assets/Runtime/Mobile/Scripts/VirtualInput.cs
   uploadId: 721456
